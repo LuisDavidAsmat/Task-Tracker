@@ -28,7 +28,7 @@ Task tracker is a project used to track and manage tasks. A simple command line 
     java Main mark-done 1
     
     # Listing all tasks
-    java Mainlist
+    java Main list
     
     # Listing tasks by status
     java Main list done
