@@ -39,6 +39,3 @@ This project is based on a backend project idea from [https://roadmap.sh/project
 
     # Delete tasks 
     java Main delete 1
-   
-
-
