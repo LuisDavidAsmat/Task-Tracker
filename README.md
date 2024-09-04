@@ -10,7 +10,7 @@ Task tracker is a project used to track and manage tasks. A simple command line 
 
 1. Clone the repository and enter src folder.
    ```bash
-   git clone [https://github.com/LuisDavidAsmat/Task-Tracker.git](https://github.com/LuisDavidAsmat/Task-Tracker.git)
+   git clone https://github.com/LuisDavidAsmat/Task-Tracker.git
    cd src
 3. Compile the code.
    ```bash
