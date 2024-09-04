@@ -3,6 +3,8 @@ Task tracker is a project used to track and manage tasks. A simple command line 
 * Working with the filesystem.
 * Handling user inputs.
 * Building a simple CLI application.
+
+This project is based on a backend project idea from [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 # Project Features
 * Basic CRUD operations for managing tasks.
 * Simple data persistance by saving tasks to a json file.
